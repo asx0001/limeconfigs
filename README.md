@@ -6,8 +6,8 @@ KillAura isnt detected too
 TpAura sometimes kicks but thats kinda rare
 
 # My binds
-KillAura - E
-Fly - F
-TpAura - R
-Disabler - V
-Speed - X
+KillAura - E <br />
+Fly - F <br />
+TpAura - R <br />
+Disabler - V <br />
+Speed - X <br />
