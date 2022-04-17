@@ -1,5 +1,7 @@
 # [Ihlu's lime config](https://github.com/asx0001/limeconfigs/blob/main/ihlubmc.json)
 # REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED
+
+# What works and what not
 Fly isnt detected from what i played <br /> 
 Speed is 𝘆𝗲𝘀 (its so fucking good ngl, i never got kicked for it and its like speed of light) <br />
 KillAura isnt detected too  <br />
