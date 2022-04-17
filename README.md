@@ -1,2 +1,13 @@
-# limeconfigs
-my lime configs thanks ily too
+# Ihlu's lime config
+# REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED
+Fly isnt detected from what i played
+Speed is 𝘆𝗲𝘀 (its so fucking good ngl, i never got kicked for it and its like speed of light)
+KillAura isnt detected too 
+TpAura sometimes kicks but thats kinda rare
+
+# My binds
+KillAura - E
+Fly - F
+TpAura - R
+Disabler - V
+Speed - X
