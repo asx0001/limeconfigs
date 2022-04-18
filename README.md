@@ -8,7 +8,7 @@
 <details>
   <summary>blocksmc.com config</summary>
   <br />
-## **REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED** <br />
+REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED<br />
   
   [Download by clicking here](https://github.com/asx0001/limeconfigs/blob/main/ihlubmc.json)
   
