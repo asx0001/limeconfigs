@@ -20,10 +20,10 @@ Speed - X <br />
   [Download by clicking here](https://github.com/asx0001/limeconfigs/blob/main/ihlubmc.json)
   
 **What works and what not:**<br />
-   Fly isnt detected from what i played <br /> 
-   Speed is 𝘆𝗲𝘀 (its so fucking good ngl, i never got kicked for it and its like speed of light) <br />
-   KillAura isnt detected too  <br />
-   TpAura sometimes kicks but thats kinda rare <br />
+ *  Fly isnt detected from what i played <br /> 
+ *  Speed is 𝘆𝗲𝘀 (its so fucking good ngl, i never got kicked for it and its like speed of light) <br />
+ *  KillAura isnt detected too  <br />
+ *  TpAura sometimes kicks but thats kinda rare <br />
   </details>
 
 # HOW TO INSTALL LIME 
