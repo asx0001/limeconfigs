@@ -2,15 +2,6 @@
 ## **REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED** <br />
 ## **Add me on discord if you need help ihlu#0661**
 
-<details>
-  <summary>Binds</summary>
-  
-* KillAura - E <br />
-* Fly - F <br />
-* TpAura - R <br />
-* Disabler - V <br />
-* Speed - X <br />
-  </details>
 
 
 <details>
@@ -30,6 +21,17 @@
   <summary>kokscraft.pl config</summary>
   soon
   </details>
+  
+  <details>
+  <summary>Binds</summary>
+  
+* KillAura - E <br />
+* Fly - F <br />
+* TpAura - R <br />
+* Disabler - V <br />
+* Speed - X <br />
+  </details>
+
 
 # HOW TO INSTALL LIME 
 ```
