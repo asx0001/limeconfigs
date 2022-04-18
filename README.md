@@ -6,10 +6,10 @@
   <summary>Binds</summary>
   
 *KillAura - E <br />
-*Fly - F <br />
-*TpAura - R <br />
-*Disabler - V <br />
-*Speed - X <br />
+* Fly - F <br />
+* TpAura - R <br />
+* Disabler - V <br />
+* Speed - X <br />
   </details>
 
 
