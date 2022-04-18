@@ -1,4 +1,4 @@
-# [Ihlu's lime config](https://github.com/asx0001/limeconfigs/blob/main/ihlubmc.json)
+# Ihlu's lime config
 ## **REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED** <br />
 ## **Add me on discord if you need help ihlu#0661**
 
@@ -16,6 +16,8 @@ Speed - X <br />
 <details>
   <summary>blocksmc.com config</summary>
 
+  [Download by clicking here](https://github.com/asx0001/limeconfigs/blob/main/ihlubmc.json)
+  
 # What works and what not
 Fly isnt detected from what i played <br /> 
 Speed is 𝘆𝗲𝘀 (its so fucking good ngl, i never got kicked for it and its like speed of light) <br />
