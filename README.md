@@ -21,6 +21,20 @@ REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED<br />
   </details>
   
   <details>
+  <summary>OTC config (CS:GO)</summary>
+  <br />
+PLEASE DONT USE IT IM SO NEW TO CSGO CHEATING THIS CONFIG SUCKS<br />
+  
+  [Download by clicking here](https://github.com/ihlu/ihlu/blob/main/otcihlu.cfg)
+  
+**What works and what not:**<br />
+ * Fly isnt detected from what i played <br /> 
+ * Speed is 𝘆𝗲𝘀 (its so fucking good ngl, i never got kicked for it and its like speed of light) <br />
+ * KillAura isnt detected too  <br />
+ * TpAura sometimes kicks but thats kinda rare <br />
+  </details>
+  
+  <details>
   <summary>kokscraft.pl config</summary>
   soon
   </details>
