@@ -5,7 +5,7 @@
 <details>
   <summary>Binds</summary>
   
-*KillAura - E <br />
+* KillAura - E <br />
 * Fly - F <br />
 * TpAura - R <br />
 * Disabler - V <br />
