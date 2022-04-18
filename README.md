@@ -25,6 +25,11 @@
  * KillAura isnt detected too  <br />
  * TpAura sometimes kicks but thats kinda rare <br />
   </details>
+  
+  <details>
+  <summary>kokscraft.pl config</summary>
+  soon
+  </details>
 
 # HOW TO INSTALL LIME 
 ```
