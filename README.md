@@ -2,6 +2,14 @@
 # **REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED**
 # Add me on discord if you need help ihlu#0661
 
+# My binds
+KillAura - E <br />
+Fly - F <br />
+TpAura - R <br />
+Disabler - V <br />
+Speed - X <br />
+
+
 <details>
   <summary>blocksmc.com config</summary>
 
@@ -11,13 +19,6 @@ Speed is 𝘆𝗲𝘀 (its so fucking good ngl, i never got kicked for it and it
 KillAura isnt detected too  <br />
 TpAura sometimes kicks but thats kinda rare <br />
   </details>
-
-# My binds
-KillAura - E <br />
-Fly - F <br />
-TpAura - R <br />
-Disabler - V <br />
-Speed - X <br />
 
 # HOW TO INSTALL LIME 
 ```
