@@ -47,7 +47,7 @@ idk it ahs aimbot and what wallhack thats all
 
 
 <details>
-  <summary>HOW TO INSTALL LIME WITH MY CONFIG</summary>
+  <summary>HOW TO INSTALL LIME WITH MY BMC CONFIG</summary>
 
 1. go to https://discord.gg/QG8rdyFhxc  <br />
 2. go to downloads channel <br />
