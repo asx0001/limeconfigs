@@ -25,7 +25,7 @@ REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED<br />
   <br />
 PLEASE DONT USE IT IM SO NEW TO CSGO CHEATING THIS CONFIG SUCKS<br />
   <br />
-  https://github.com/ihlu/ihlu/blob/main/otcihlu.cfg 
+  https://github.com/ihlu/ihlu/blob/main/otcihlu.cfg  <br />
   
 idk it ahs aimbot and what wallhack thats all
   </details>
