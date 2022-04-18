@@ -1,5 +1,5 @@
 # Ihlu's lime config
-## **REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED** <br />
+
 ## Discord: ihlu#0661**
 ## YouTube: https://www.youtube.com/channel/UCrd9e10uS0f5Fml7ekSuCwg
 ## Twitter: https://twitter.com/ihluy
@@ -7,9 +7,10 @@
 
 
 <details>
-  <summary>blocksmc.com config rn kicks alot but im trying to fix shit </summary>
+  <summary>blocksmc.com config</summary>
   <br />
-
+## **REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED** <br />
+  
   [Download by clicking here](https://github.com/asx0001/limeconfigs/blob/main/ihlubmc.json)
   
 **What works and what not:**<br />
