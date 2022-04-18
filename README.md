@@ -2,12 +2,15 @@
 # **REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED**
 # Add me on discord if you need help ihlu#0661
 
+<details>
+  <summary>blocksmc.com config</summary>
 
 # What works and what not
 Fly isnt detected from what i played <br /> 
 Speed is 𝘆𝗲𝘀 (its so fucking good ngl, i never got kicked for it and its like speed of light) <br />
 KillAura isnt detected too  <br />
 TpAura sometimes kicks but thats kinda rare <br />
+  </details>
 
 # My binds
 KillAura - E <br />
