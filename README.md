@@ -36,7 +36,8 @@
   </details>
 
 
-# HOW TO INSTALL LIME 
+<details>
+  <summary>HOW TO INSTALL LIME WITH MY CONFIG</summary>
 ```
 1. go to https://discord.gg/QG8rdyFhxc 
 2. go to downloads channel
@@ -61,3 +62,4 @@
 21. bind cheats to your liking 
 22. enjoy
 ```
+    </details>
