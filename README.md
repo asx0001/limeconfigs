@@ -7,7 +7,7 @@
 
 
 <details>
-  <summary>blocksmc.com config</summary>
+  <summary>lime blocksmc.com config</summary>
   <br />
 REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED<br />
   
@@ -31,7 +31,7 @@ idk it ahs aimbot and what wallhack thats all
   </details>
   
   <details>
-  <summary>kokscraft.pl config</summary>
+  <summary>lime kokscraft.pl config</summary>
   soon
   </details>
   
