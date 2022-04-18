@@ -1,7 +1,7 @@
 
-## Discord: ihlu#0661
-## YouTube: https://www.youtube.com/channel/UCrd9e10uS0f5Fml7ekSuCwg
-## Twitter: https://twitter.com/ihluy
+## Discord: [ihlu#0661](https://discord.gg/qZzKPdDg)
+## YouTube: [ihlu](https://www.youtube.com/channel/UCrd9e10uS0f5Fml7ekSuCwg)
+## Twitter: [@ihluy](https://twitter.com/ihluy)
 
 
 
