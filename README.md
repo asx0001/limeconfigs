@@ -62,24 +62,4 @@ REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED<br />
 22. enjoy <br />
 
     </details>
-     <br />
-      <br />
-       <br />
-        <br />
-         <br />
-           <br />
-            <br />
-     <br />
-      <br />
-       <br />
-        <br />
-         <br />
-           <br />
-            <br />
-                 <br />
-      <br />
-       <br />
-        <br />
-         <br />
-           <br />
-            <br />
+![alt text](https://cdn.discordapp.com/emojis/954210800606789674.gif?size=96&quality=lossless)
