@@ -17,6 +17,7 @@ Disabler - V <br />
 Speed - X <br />
 
 # HOW TO INSTALL LIME 
+```
 1. go to https://discord.gg/QG8rdyFhxc 
 2. go to downloads channel
 3. download lime
@@ -39,3 +40,4 @@ Speed - X <br />
 20. type ".config load ihlubmc" 
 21. bind cheats to your liking 
 22. enjoy
+```
