@@ -1,6 +1,8 @@
 # Ihlu's lime config
 ## **REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED** <br />
-## **Add me on discord if you need help ihlu#0661**
+## Discord: ihlu#0661**
+## YouTube: https://www.youtube.com/channel/UCrd9e10uS0f5Fml7ekSuCwg
+## Twitter: https://twitter.com/ihluy
 
 
 
