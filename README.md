@@ -5,7 +5,7 @@
 
 
 <details>
-  <summary>blocksmc.com config</summary>
+  <summary>blocksmc.com config **rn kicks alot but im trying to fix shit** </summary>
   <br />
 
   [Download by clicking here](https://github.com/asx0001/limeconfigs/blob/main/ihlubmc.json)
