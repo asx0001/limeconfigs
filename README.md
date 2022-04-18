@@ -1,4 +1,3 @@
-# Ihlu's lime config
 
 ## Discord: ihlu#0661
 ## YouTube: https://www.youtube.com/channel/UCrd9e10uS0f5Fml7ekSuCwg
