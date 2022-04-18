@@ -1,6 +1,6 @@
 # [Ihlu's lime config](https://github.com/asx0001/limeconfigs/blob/main/ihlubmc.json)
-**REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED** <br />
-**Add me on discord if you need help ihlu#0661**
+## **REMEMBER TO TURN OFF DISABLER IN BLOCKSMC LOBBY OR YOU WILL GET KICKED** <br />
+## **Add me on discord if you need help ihlu#0661**
 
 # My binds
 KillAura - E <br />
