@@ -7,5 +7,5 @@
 
 
 
-    </details>
+  
 ![alt text](https://cdn.discordapp.com/emojis/954210800606789674.gif?size=96&quality=lossless)
